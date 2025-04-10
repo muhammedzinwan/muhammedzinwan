@@ -33,7 +33,7 @@ Tools       │ Git, Docker, VS Code, GitHub Actions
 - 💪 Can debug for 8 hours straight and still hit the gym afterward
 
 ## Connect With Me
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in/muhammedzinwan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -46,7 +46,7 @@ Tools       │ Git, Docker, VS Code, GitHub Actions
 </div>
 
 ---
-
+<!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedzinwan&theme=dracula" alt="GitHub streak stats"/>
-</div>
+</div> -->
